@@ -1,9 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:F2F8ADFF,100:EF5350FF&height=300&section=header&text=Endless%20Something&fontSize=90)
 
-<img alt="Html" src ="https://img.shields.io/badge/&style=for-the-badge&logo=Html&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Html-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
