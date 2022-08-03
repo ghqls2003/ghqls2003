@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:F2F8ADFF,100:EF5350FF&height=300&section=header&text=Endless%20Something&fontSize=90)
 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 <!--
 **ghqls2003/ghqls2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
